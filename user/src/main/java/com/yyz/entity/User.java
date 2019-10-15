@@ -6,6 +6,7 @@ public class User {
     private  String name;
     private  String sex;
     private  int age;
+    private  int a;
 
 
     public void getId(int id) {
